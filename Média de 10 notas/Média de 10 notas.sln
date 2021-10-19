@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Média de 10 notas", "Média de 10 notas\Média de 10 notas.csproj", "{FDAC9E07-3220-4863-959F-E5EFE811C758}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDAC9E07-3220-4863-959F-E5EFE811C758}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDAC9E07-3220-4863-959F-E5EFE811C758}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDAC9E07-3220-4863-959F-E5EFE811C758}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDAC9E07-3220-4863-959F-E5EFE811C758}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5394E79C-E70D-4965-A64C-4312B0C5714B}
+	EndGlobalSection
+EndGlobal

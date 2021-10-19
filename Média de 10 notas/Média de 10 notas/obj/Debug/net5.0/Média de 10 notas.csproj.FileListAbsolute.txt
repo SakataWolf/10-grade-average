@@ -1,0 +1,16 @@
+D:\Etec\PA\Média de 10 notas\Média de 10 notas\bin\Debug\net5.0\Média de 10 notas.exe
+D:\Etec\PA\Média de 10 notas\Média de 10 notas\bin\Debug\net5.0\Média de 10 notas.deps.json
+D:\Etec\PA\Média de 10 notas\Média de 10 notas\bin\Debug\net5.0\Média de 10 notas.runtimeconfig.json
+D:\Etec\PA\Média de 10 notas\Média de 10 notas\bin\Debug\net5.0\Média de 10 notas.runtimeconfig.dev.json
+D:\Etec\PA\Média de 10 notas\Média de 10 notas\bin\Debug\net5.0\Média de 10 notas.dll
+D:\Etec\PA\Média de 10 notas\Média de 10 notas\bin\Debug\net5.0\ref\Média de 10 notas.dll
+D:\Etec\PA\Média de 10 notas\Média de 10 notas\bin\Debug\net5.0\Média de 10 notas.pdb
+D:\Etec\PA\Média de 10 notas\Média de 10 notas\obj\Debug\net5.0\Média de 10 notas.csproj.AssemblyReference.cache
+D:\Etec\PA\Média de 10 notas\Média de 10 notas\obj\Debug\net5.0\Média de 10 notas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Etec\PA\Média de 10 notas\Média de 10 notas\obj\Debug\net5.0\Média de 10 notas.AssemblyInfoInputs.cache
+D:\Etec\PA\Média de 10 notas\Média de 10 notas\obj\Debug\net5.0\Média de 10 notas.AssemblyInfo.cs
+D:\Etec\PA\Média de 10 notas\Média de 10 notas\obj\Debug\net5.0\Média de 10 notas.csproj.CoreCompileInputs.cache
+D:\Etec\PA\Média de 10 notas\Média de 10 notas\obj\Debug\net5.0\Média de 10 notas.dll
+D:\Etec\PA\Média de 10 notas\Média de 10 notas\obj\Debug\net5.0\ref\Média de 10 notas.dll
+D:\Etec\PA\Média de 10 notas\Média de 10 notas\obj\Debug\net5.0\Média de 10 notas.pdb
+D:\Etec\PA\Média de 10 notas\Média de 10 notas\obj\Debug\net5.0\Média de 10 notas.genruntimeconfig.cache
